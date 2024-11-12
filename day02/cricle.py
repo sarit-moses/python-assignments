@@ -1,7 +1,7 @@
 import math
 
 ### values:
-radius = 6
+radius = float(input("What is the radius of the circle?"))
 pi_val = math.pi
 
 # print area:
